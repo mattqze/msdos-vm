@@ -1,5 +1,5 @@
 # msdos-vm
-A preconfigured and preinstalled with MSDOS 6.22, Windows 3.1 and games.
+A preconfigured and preinstalled with MSDOS 6.22, Windows 95 and games.
 # To use:
 Download ZIP. <br>
 Extract the ZIP file. <br>
